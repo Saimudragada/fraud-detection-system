@@ -1,0 +1,34 @@
+# Virtual environments
+venv/
+bakery_env/
+env/
+*.env
+
+# Python cache
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large data files
+data/*.csv
+data/*.txt
+data/raw/*
+data/processed/*
+
+# Model files (these are large)
+models/*.pkl
+models/*.h5
+models/*.joblib
+*.model
+
+# OS files
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/

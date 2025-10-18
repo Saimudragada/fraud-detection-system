@@ -1,0 +1,17 @@
+FRAUD TRANSACTION EXPLANATION
+============================================================
+
+Transaction Amount: $-0.05
+
+Top 10 Features Indicating Fraud:
+              feature     value  shap_value
+                  V14 -4.004315    3.402588
+                  V10 -3.295228    1.354308
+                  V12 -4.024150    0.738609
+                   V4  1.563287    0.599522
+                v_std  2.136280    0.519166
+                  V16 -2.834835    0.489430
+                  V11  3.045188    0.231574
+                   V7 -1.964285    0.215386
+                v_min -1.891595    0.206364
+v4_amount_interaction  1.799466    0.134646

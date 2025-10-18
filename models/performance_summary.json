@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-10-13T11:00:45.275095",
+  "model_version": "1.0.0",
+  "performance": {
+    "precision": 0.8705882352941177,
+    "recall": 0.7789473684210526,
+    "f1_score": 0.8222222222222222
+  },
+  "business_impact": {
+    "frauds_detected": 74,
+    "value_saved_usd": 9043.54,
+    "annual_projection_usd": 1650446.05,
+    "roi_percent": 1590.4
+  },
+  "data_stats": {
+    "test_samples": 56746,
+    "fraud_cases": 95,
+    "fraud_rate_percent": 0.16741268107003138
+  }
+}
